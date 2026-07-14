@@ -1,13 +1,17 @@
 # Bioremediation AI Engineer Interview Questions 🦠🌱🤖
 
-A curated, community-driven collection of interview questions (with model answers, frameworks, and explanations) for roles working at the intersection of **AI/ML and environmental biotechnology** — engineering organisms and enzymes to degrade pollutants, and using machine learning to monitor, model, and optimize bioremediation systems.
+<p align="center">
+  <img src="assets/banner.svg" alt="Bioremediation AI Engineer Banner" width="100%">
+</p>
+
+🌟 A curated, community-driven collection of interview questions (with model answers, frameworks, and explanations) for roles working at the intersection of **AI/ML and environmental biotechnology** — engineering organisms and enzymes to degrade pollutants, and using machine learning to monitor, model, and optimize bioremediation systems.
 
 > 📝 **A note on the title:** "Bioremediation AI Engineer" isn't a standardized industry job title. This repo covers the real, active intersection of environmental biotechnology and applied ML — titles you're more likely to actually see include "Environmental Biotechnology Engineer," "Computational Biologist (Environmental Applications)," or "ML Engineer" at a company working on plastics degradation, contaminated site remediation, or wastewater treatment.
 
-This is not a list of trivia. Every question includes:
-- **Why interviewers ask it**
-- **A model answer or framework**
-- **Follow-up questions** interviewers commonly use to probe deeper
+🎯 This is not a list of trivia. Every question includes:
+- 🤔 **Why interviewers ask it**
+- 💡 **A model answer or framework**
+- 🔄 **Follow-up questions** interviewers commonly use to probe deeper
 
 > 🌱 This is v1. Contributions, corrections, and new questions are very welcome — see [CONTRIBUTING.md](CONTRIBUTING.md).
 
@@ -34,11 +38,11 @@ Also see: [resources.md](resources.md) for external reading, key papers, and com
 
 ## 🧭 How to Use This Repo
 
-- **Coming from an environmental science/microbiology background?** Prioritize sections 3, 4, and 5 — the goal is building fluency in how ML models are actually built, validated, and deployed on environmental data.
-- **Coming from an ML/data science background?** Prioritize sections 1 and 2 — you'll need working fluency in bioremediation mechanisms and enzyme/organism engineering before your ML skills are usefully applied to this domain.
-- **Interviewing at a company focused on plastics degradation?** Focus heavily on section 2.
-- **Interviewing at a company focused on contaminated site monitoring/remediation-as-a-service?** Focus heavily on sections 3, 4, and 6.
-- **Interviewing for a role touching field/environmental deployment of engineered organisms?** Focus heavily on section 7.
+- 🔬 **Coming from an environmental science/microbiology background?** Prioritize sections 3, 4, and 5 — the goal is building fluency in how ML models are actually built, validated, and deployed on environmental data.
+- 💻 **Coming from an ML/data science background?** Prioritize sections 1 and 2 — you'll need working fluency in bioremediation mechanisms and enzyme/organism engineering before your ML skills are usefully applied to this domain.
+- ♻️ **Interviewing at a company focused on plastics degradation?** Focus heavily on section 2.
+- 🗺️ **Interviewing at a company focused on contaminated site monitoring/remediation-as-a-service?** Focus heavily on sections 3, 4, and 6.
+- 🌍 **Interviewing for a role touching field/environmental deployment of engineered organisms?** Focus heavily on section 7.
 
 Each question is tagged with a rough difficulty and role-level indicator:
 - 🟢 Junior/Associate · 🟡 Mid-level Engineer/Scientist · 🔴 Senior/Principal

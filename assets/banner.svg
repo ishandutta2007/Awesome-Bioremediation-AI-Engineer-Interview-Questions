@@ -1,0 +1,33 @@
+<svg width="100%" height="200" viewBox="0 0 800 200" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="grad1" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" style="stop-color:#00B4DB;stop-opacity:1" />
+      <stop offset="100%" style="stop-color:#0083B0;stop-opacity:1" />
+    </linearGradient>
+    <style>
+      .text-title { font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif; font-size: 36px; font-weight: bold; fill: white; }
+      .text-sub { font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif; font-size: 18px; fill: #E0F7FA; }
+      .bubble { fill: rgba(255, 255, 255, 0.4); animation: float 6s infinite ease-in-out; }
+      .bubble2 { fill: rgba(255, 255, 255, 0.2); animation: float 8s infinite ease-in-out reverse; }
+      .bubble3 { fill: rgba(255, 255, 255, 0.3); animation: float 7s infinite ease-in-out 1s; }
+      @keyframes float {
+        0% { transform: translateY(0px) scale(1); }
+        50% { transform: translateY(-20px) scale(1.1); }
+        100% { transform: translateY(0px) scale(1); }
+      }
+    </style>
+  </defs>
+  
+  <rect width="100%" height="100%" fill="url(#grad1)" rx="15" ry="15"/>
+  
+  <g transform="translate(50, 0)">
+    <circle class="bubble" cx="600" cy="150" r="20" />
+    <circle class="bubble2" cx="650" cy="100" r="15" />
+    <circle class="bubble3" cx="550" cy="80" r="25" />
+    <circle class="bubble" cx="700" cy="130" r="10" />
+    <circle class="bubble2" cx="500" cy="160" r="18" />
+  </g>
+  
+  <text x="50" y="90" class="text-title">Bioremediation AI Engineer</text>
+  <text x="50" y="130" class="text-sub">Interview Questions &amp; Preparation Guide</text>
+</svg>
